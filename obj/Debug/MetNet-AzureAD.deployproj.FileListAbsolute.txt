@@ -1,0 +1,1 @@
+D:\Public\Scripts\VisualStudioProjects\MetNet-AzureAD\MetNet-AzureAD\obj\Debug\MetNet-AzureAD.deployproj.CoreCompileInputs.cache
